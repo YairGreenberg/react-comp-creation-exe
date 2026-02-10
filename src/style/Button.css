@@ -1,0 +1,19 @@
+.Teacher {
+    background-color: blue;
+    color: aliceblue;
+
+}
+.Student  {
+    background-color: purple;
+    color: aliceblue;
+
+}
+.Friend   {
+    background-color: greenyellow;
+
+}
+.conectBottun {
+    height: 25px;
+    width: 70px;
+    cursor: pointer;
+}
