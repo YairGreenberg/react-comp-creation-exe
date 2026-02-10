@@ -31,6 +31,46 @@ function App() {
       name="Yair Greenberg"
        img="https://img.freepik.com/premium-photo/graphic-designer-digital-avatar-generative-ai_934475-9292.jpg
        "></Cards>
+      <Cards type="Student"
+      name="Yair Greenberg"
+       img="https://img.freepik.com/premium-photo/graphic-designer-digital-avatar-generative-ai_934475-9292.jpg
+       "></Cards>
+      <Cards type="Student"
+      name="Yair Greenberg"
+       img="https://img.freepik.com/premium-photo/graphic-designer-digital-avatar-generative-ai_934475-9292.jpg
+       "></Cards>
+      <Cards type="Student"
+      name="Yair Greenberg"
+       img="https://img.freepik.com/premium-photo/graphic-designer-digital-avatar-generative-ai_934475-9292.jpg
+       "></Cards>
+      <Cards type="Student"
+      name="Yair Greenberg"
+       img="https://img.freepik.com/premium-photo/graphic-designer-digital-avatar-generative-ai_934475-9292.jpg
+       "></Cards>
+      <Cards type="Friend"
+      name="Yair Greenberg"
+       img="https://img.freepik.com/premium-photo/graphic-designer-digital-avatar-generative-ai_934475-9292.jpg
+       "></Cards>
+      <Cards type="Student"
+      name="Yair Greenberg"
+       img="https://img.freepik.com/premium-photo/graphic-designer-digital-avatar-generative-ai_934475-9292.jpg
+       "></Cards>
+      <Cards type="Student"
+      name="Yair Greenberg"
+       img="https://img.freepik.com/premium-photo/graphic-designer-digital-avatar-generative-ai_934475-9292.jpg
+       "></Cards>
+      <Cards type="Student"
+      name="Yair Greenberg"
+       img="https://img.freepik.com/premium-photo/graphic-designer-digital-avatar-generative-ai_934475-9292.jpg
+       "></Cards>
+      <Cards type="Friend"
+      name="Yair Greenberg"
+       img="https://img.freepik.com/premium-photo/graphic-designer-digital-avatar-generative-ai_934475-9292.jpg
+       "></Cards>
+      <Cards type="Student"
+      name="Yair Greenberg"
+       img="https://img.freepik.com/premium-photo/graphic-designer-digital-avatar-generative-ai_934475-9292.jpg
+       "></Cards>
       </div>
       <Footer></Footer>
 
